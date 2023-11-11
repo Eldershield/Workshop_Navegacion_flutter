@@ -36,7 +36,7 @@ class HomePages extends StatelessWidget {
               ),
             ),
             const DirectionPage(),
-            BicyclePage(),
+            const BicyclePage(),
           ],
         ),
       ),
